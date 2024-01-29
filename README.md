@@ -1,6 +1,7 @@
 # Photon Counting SPIFI Principles & Example Code
 ## About
 Author: Daniel Scarbrough
+
 Date: January 29, 2024
 
 ---
